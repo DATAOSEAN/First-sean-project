@@ -3,10 +3,11 @@ score = [80, 75, 55]
 b = sum(score) / len(score)
 b
 
-#Q1.
-score = [80, 75, 55]
-b = sum(score) / len(score)
-b
+#Q2.
+if 13 % 2 == 0:
+    print("even")
+else:
+    print("odd")
 
 #Q3.
 pin = "881120-1068234"
